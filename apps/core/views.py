@@ -1,6 +1,6 @@
 # Create your views here.
 from django.http import HttpResponse
-from apps.rabbitmq.rabbitmq import RabbitMQ
+from apps.core.rabbitmq import RabbitMQ
 from django.shortcuts import render
 
 def index(request):
