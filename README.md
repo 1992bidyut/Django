@@ -1,3 +1,1 @@
-# Django
-
-Celery-RabbitMQ: https://simpleisbetterthancomplex.com/tutorial/2017/08/20/how-to-use-celery-with-django.html
+https://medium.com/@mahdi04/simple-async-django-app-with-celery-and-rabbitmq-ad4b1692c380
