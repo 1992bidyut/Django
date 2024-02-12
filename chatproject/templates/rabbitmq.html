@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RabbitMQ Message Receiver</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.3.1/socket.io.js" integrity="sha512-+gZGrLwM73zfq36y9hxZDg/GRi7BKyZpwN2U5e6W7Qo+xxsWdL9PUvCzwVBe2Xb9mtZGp6eY6NssLDbbJwN+4A==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+</head>
+<body>
+    <div id="messages"></div>
+
+    <script>
+        const socket = io();
+
+        socket.on('message_from_server', function(message) {
+            console.log('Received message from server:', message);
+            const messagesDiv = document.getElementById('messages');
+            messagesDiv.innerHTML += `<p>${message}</p>`;
+        });
+    </script>
+</body>
+</html>
