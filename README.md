@@ -2,7 +2,8 @@ Help: https://medium.com/@devsumitg/revolutionize-your-chat-app-with-django-chan
 
 
 
-##To run a Django Channels server, you typically use the daphne ASGI server or a similar ASGI server in combination with the channels management command provided by Django. Here are the steps to run a Django Channels server:
+##To run a Django Channels server, you typically use the daphne ASGI server or a similar ASGI server in combination with the channels management command provided by Django.
+Here are the steps to run a Django Channels server:
 
 #Install Daphne:
 

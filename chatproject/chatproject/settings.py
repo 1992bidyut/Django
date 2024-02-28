@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'chatapp',
+    'channels',
 ]
 
 MIDDLEWARE = [
@@ -70,7 +71,14 @@ TEMPLATES = [
 
 
 ASGI_APPLICATION = "chatproject.asgi.application"
-
+# CHANNEL_LAYERS = {
+#     "default": {
+#         "BACKEND": "channels_redis.core.RedisChannelLayer",
+#         "CONFIG": {
+#             "hosts": [("localhost", 6379)],
+#         },
+#     },
+# }
 
 CHANNEL_LAYERS = {
     'default': {
@@ -78,7 +86,6 @@ CHANNEL_LAYERS = {
     }
 }
 
-# import pdb; pdb.set_trace()
 
 # Database
 # https://docs.djangoproject.com/en/4.2/ref/settings/#databases
