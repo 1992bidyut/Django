@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7909916c-7d95-4744-b2a5-c067b72991a0" name="Default" comment="init">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chatproject/chatproject/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/chatproject/chatproject/asgi.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/chatproject/chatproject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/chatproject/chatproject/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chatproject/chatproject/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/chatproject/chatproject/wsgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chatproject/templates/chat_data.html" beforeDir="false" afterPath="$PROJECT_DIR$/chatproject/templates/chat_data.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chatproject/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/chatproject/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,10 +146,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="467" y="97" key="CommitChangelistDialog2" timestamp="1709098750182">
+    <state x="467" y="97" key="CommitChangelistDialog2" timestamp="1709121829771">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="467" y="97" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1709098750182" />
+    <state x="467" y="97" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1709121829771" />
     <state x="547" y="280" width="586" height="490" key="find.popup" timestamp="1708601799576">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
