@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7909916c-7d95-4744-b2a5-c067b72991a0" name="Default" comment="init">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chatproject/chatproject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/chatproject/chatproject/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatproject/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/chatproject/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,12 +41,12 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="chat-app-channel(DJ-1.11.29)" />
+        <entry key="$PROJECT_DIR$" value="status-app-channel-radis" />
       </map>
     </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JupyterTrust" id="e8f41801-879f-4941-b63c-711ea08c1dca" />
   <component name="ProjectFrameBounds" fullScreen="true">
