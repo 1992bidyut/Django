@@ -27,8 +27,11 @@
     const chatSocket = new WebSocket(
         {#'ws://localhost:8001/ws/chat/public_room/'#}
         {#'ws://localhost:8001/ws/chat/'#}
-        'ws://103.204.80.12:9100/ws/map_room/'
-        {#'ws://python310.xonworld.com/ws/map_room/'#}
+        {#'ws://103.204.80.12:9100/ws/map_room/'#}
+        {#'ws://localhost:8000/ws/map_room/'#}
+        'wss://fttx.xonworld.com/ws/map_room/'
+        {#'wss://python310.xonworld.com/ws/map_room/'#}
+        {#'wss://bdcom.xonworld.com/ws/map_room/'#}
     );
 
     // on socket open
